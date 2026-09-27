@@ -1,0 +1,193 @@
+{
+  "profile": {
+    "name": "Bhanu Vamshi Anumula",
+    "shortName": "BHANU VAMSHI",
+    "eyebrow": "AN EXTRAORDINARY ORDINARY HUMAN",
+    "headline": "I build systems by day.\nI build worlds when I can.",
+    "subline": "ServiceNow professional, web creator, AI-cinema experimenter, anime/manga enthusiast and unapologetic side-quest collector.",
+    "experience": "2.7+ years",
+    "education": [
+      "M.Sc. Computer Science — Osmania University",
+      "B.Sc. Computer Science — Osmania University"
+    ],
+    "email": "bhanuvamshi0211@gmail.com",
+    "phone": "+91 9959073606",
+    "linkedin": "https://www.linkedin.com/in/bhanu-vamshi-anumula-3b2740217/",
+    "github": "https://github.com/BhanuVamshi02",
+    "communityArticlesUrl": "https://www.servicenow.com/community/user/viewprofilepage/user-id/646727/user-activities?messages"
+  },
+  "professional": {
+    "summary": "ServiceNow professional with approximately 2.7+ years of experience across platform development, implementation, technical troubleshooting, requirement analysis and client-facing solutioning.",
+    "roles": [
+      {
+        "title": "Associate Technical Consultant",
+        "period": "April 2026 — Present",
+        "tone": "consulting",
+        "description": "Expanded beyond development into client-facing communication, requirement analysis, issue troubleshooting, solutioning and technical ownership while continuing ServiceNow development and customization.",
+        "highlights": [
+          "Client-facing communication",
+          "Requirement analysis",
+          "Root-cause analysis and troubleshooting",
+          "Solution design and technical recommendations",
+          "Development, testing and implementation"
+        ]
+      },
+      {
+        "title": "Platform Developer",
+        "period": "October 2024 — March 2026",
+        "tone": "builder",
+        "description": "Took significant hands-on development responsibility across ITSM, CSM, portals, workspaces, automation, mobile experiences and custom applications.",
+        "highlights": [
+          "UI Builder and Workspaces",
+          "Service Portal and Employee Center",
+          "Service Catalog",
+          "Business Rules, Client Scripts, UI Policies and UI Actions",
+          "Declarative Actions, ACLs and Script Includes",
+          "Flow Designer automation",
+          "Custom widgets and portal components",
+          "Email Notifications and Inbound Email Actions",
+          "Import Sets and Transform Maps",
+          "Now Mobile and Mobile Agent",
+          "Portal/workspace migrations and ServiceNow upgrades"
+        ]
+      },
+      {
+        "title": "Associate Developer",
+        "period": "February 2024 — September 2024",
+        "tone": "origin",
+        "description": "Built a foundation in ServiceNow platform development and ITSM concepts, supported implementation activities and developed practical exposure to platform development practices.",
+        "highlights": [
+          "ServiceNow platform fundamentals",
+          "ITSM concepts",
+          "Initial implementation exposure",
+          "Development practice and team support",
+          "Certified System Administrator (CSA)",
+          "Certified Implementation Specialist — ITSM (CIS-ITSM)"
+        ]
+      }
+    ],
+    "skills": {
+      "ServiceNow": [
+        "ITSM",
+        "CSM",
+        "Service Catalog",
+        "UI Builder",
+        "Workspaces",
+        "Service Portal",
+        "Employee Center",
+        "Widgets",
+        "Now Mobile",
+        "Mobile Agent",
+        "Flow Designer",
+        "Platform Analytics"
+      ],
+      "Development": [
+        "Client Scripts",
+        "Business Rules",
+        "Script Includes",
+        "UI Actions",
+        "UI Policies",
+        "Declarative Actions",
+        "ACLs",
+        "Email Notifications",
+        "Inbound Email Actions"
+      ],
+      "Data & Delivery": [
+        "Import Sets",
+        "Transform Maps",
+        "Reporting",
+        "Dashboards",
+        "Platform Analytics",
+        "Migrations",
+        "Upgrade support"
+      ],
+      "Consulting": [
+        "Requirement analysis",
+        "Client communication",
+        "Issue analysis",
+        "Troubleshooting",
+        "Solutioning",
+        "Technical recommendations"
+      ]
+    },
+    "certifications": [
+      "Certified System Administrator (CSA)",
+      "Certified Implementation Specialist — ITSM (CIS-ITSM)",
+      "10+ micro-certifications"
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Computer Science",
+        "institution": "Osmania University",
+        "date": "October 2023"
+      },
+      {
+        "degree": "B.Sc. Computer Science",
+        "institution": "Osmania University",
+        "date": "September 2021"
+      }
+    ]
+  },
+  "creative": {
+    "oldPortfolio": "https://bhanu-vamshi.web.app/",
+    "currentPortfolio": "https://bhanu-portfolio-omega.vercel.app/",
+    "trailerUrl": "https://www.youtube.com/embed/dWSJwBlc-R4?si=bwhwLdFDXrEz3NYu",
+    "photo": "swordsman-pic.png",
+    "web": {
+      "status": "REAL WORK",
+      "title": "The Web Forge",
+      "description": "Websites and visual experiments from the chapter before IT became the main quest."
+    },
+    "cinema": {
+      "status": "AI EXPERIMENT",
+      "title": "The AI Cinema",
+      "description": "A cinematic trailer experiment built from curiosity, prompting, generation, editing and sound."
+    }
+  },
+  "interests": {
+    "animes": ["One Piece", "Demon Slayer", "Death Note"],
+    "manhwa": [
+      "The Greatest Estate Developer",
+      "The Swordmaster's Youngest Son",
+      "Return of the Mount Hua Sect"
+    ],
+    "movies": ["The Pursuit of Happyness", "RRR", "The Shawshank Redemption"]
+  },
+  "articles": [
+    {
+      "title": "BLOG: Filter Update for Affected CIs Related list Add button on Outage Form",
+      "date": "March 13, 2026",
+      "category": "ITOM",
+      "summary": "A walkthrough for adding a filter condition to the Affected CIs list popup on an Outage form, including URL handling and refreshing the related list after selection.",
+      "url": "https://www.servicenow.com/community/itom-forum/blog-filter-update-for-affected-cis-related-list-add-button-on/td-p/3507397"
+    },
+    {
+      "title": "Enable \"View All\" and “Record” onClick Navigation for Platform Analytics Dashboards in Workspaces",
+      "date": "January 30, 2026",
+      "category": "Service Operations Workspace",
+      "summary": "A UI Builder and client-script approach to route dashboard row clicks to records and View All actions to filtered lists in Service Operations Workspace.",
+      "url": "https://www.servicenow.com/community/service-operations-workspace/enable-quot-view-all-quot-and-record-onclick-navigation-for/td-p/3478470"
+    },
+    {
+      "title": "Passing Data Between Widgets in Service Portal Using $emit, $broadcast, and $on",
+      "date": "January 30, 2026",
+      "category": "Service Portal",
+      "summary": "Working examples of AngularJS event communication between child, parent, and sibling Service Portal widgets using $emit, $broadcast, $on, and $rootScope.",
+      "url": "https://www.servicenow.com/community/sn-employeeworks-forum/passing-data-between-widgets-in-service-portal-using-emit/td-p/3478466"
+    },
+    {
+      "title": "Script Include Return Types and Script Include related to OOP Concepts in ServiceNow",
+      "date": "March 10, 2024",
+      "category": "ITSM",
+      "summary": "Questions about return types from class-based Script Includes, reference qualifier compatibility, and how inheritance and method overrides work on the platform.",
+      "url": "https://www.servicenow.com/community/itsm-forum/script-include-return-types-and-script-include-related-to-oop/td-p/2857190"
+    },
+    {
+      "title": "Script Include Return Types and OOP Concepts in ServiceNow",
+      "date": "March 7, 2024",
+      "category": "Developer Forum",
+      "summary": "An exploration of suitable Script Include return values for client-side use and the relationship between Script Includes and object-oriented inheritance.",
+      "url": "https://www.servicenow.com/community/developer-forum/script-include-return-types-and-oop-concepts-in-servicenow/td-p/2855144"
+    }
+  ]
+}
