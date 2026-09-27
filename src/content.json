@@ -181,13 +181,6 @@
       "category": "ITSM",
       "summary": "Questions about return types from class-based Script Includes, reference qualifier compatibility, and how inheritance and method overrides work on the platform.",
       "url": "https://www.servicenow.com/community/itsm-forum/script-include-return-types-and-script-include-related-to-oop/td-p/2857190"
-    },
-    {
-      "title": "Script Include Return Types and OOP Concepts in ServiceNow",
-      "date": "March 7, 2024",
-      "category": "Developer Forum",
-      "summary": "An exploration of suitable Script Include return values for client-side use and the relationship between Script Includes and object-oriented inheritance.",
-      "url": "https://www.servicenow.com/community/developer-forum/script-include-return-types-and-oop-concepts-in-servicenow/td-p/2855144"
     }
   ]
 }
